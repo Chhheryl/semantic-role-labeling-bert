@@ -34,6 +34,3 @@ See [`data/README.md`](data/README.md) for local setup instructions. Do not comm
 
 Open `notebooks/semantic-role-labeling-bert.ipynb` after placing authorized local copies of the required data files in the notebook working directory.
 
-## Academic and licensing note
-
-This work originated as a course assignment. Keep the repository private unless you have confirmed that publication is allowed by the course policy and dataset license. Before public release, remove assignment instructions and any completed answer content, and rewrite the notebook as an independent project report.
